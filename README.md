@@ -1,2 +1,4 @@
 # PaginaWeb
-una pagina web basica
+<br/>Una pagina web basica
+
+ <br/>One basic blog
